@@ -27,3 +27,5 @@ To improve this, I implemented **LLM prompting** with ChatGPT to extract structu
 - `Looker`
 
 These were less obvious before, but clearly important in today’s data landscape.
+
+<img width="944" height="506" alt="image" src="https://github.com/user-attachments/assets/7bab3632-51e3-4e95-863d-5536a4b7244a" />
